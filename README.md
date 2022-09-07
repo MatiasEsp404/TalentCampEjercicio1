@@ -1,4 +1,4 @@
-# Segundo ejercicio del Java Talent Camp Intermedio
+# Primer ejercicio del Java Talent Camp Intermedio
 
 Se solicita: Implementar IoC-DI (Inversion of Control - Dependency Inversion)
 
